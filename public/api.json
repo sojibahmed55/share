@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Leica M3 — vintage charm meets mechanical perfection.",
+      "currentBidPrice": 3500,
+      "timeLeft": "2h 45m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/ksDk9kj3/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "1965 Gibson SG Standard — fiery tone wrapped in vintage rock 'n' roll soul.",
+      "currentBidPrice": 11950,
+      "timeLeft": "5h 12m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/dsFPqZM1/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Original Macintosh 128K (1984) — the icon that started it all.",
+      "currentBidPrice": 2500,
+      "timeLeft": "1d 3h",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co.com/NdMG773w/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Rolex Submariner 16610 — classic dive watch, timeless swagger.",
+      "currentBidPrice": 7500,
+      "timeLeft": "3h 5m",
+      "bidsCount": 30,
+      "image": "https://i.ibb.co.com/FLT1sWXY/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "First Edition The Great Gatsby — a rare gem of Jazz Age brilliance.",
+      "currentBidPrice": 6500,
+      "timeLeft": "6h 20m",
+      "bidsCount": 17,
+      "image": "https://i.ibb.co.com/201mfSPQ/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Eames Lounge Chair — mid-century design meets ultimate comfort.",
+      "currentBidPrice": 3000,
+      "timeLeft": "2d 7h",
+      "bidsCount": 41,
+      "image": "https://i.ibb.co.com/V5gnDXp/Bid6-min.png"
+    }
+]
